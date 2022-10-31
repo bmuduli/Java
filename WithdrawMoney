@@ -13,7 +13,7 @@ class InvalidAmountException extends Exception{
     }
 }
 
-public class Banking{
+public class WithdrawMoney{
     public static void main(String[] args){
         Scanner sc= new Scanner(System.in);
             int TotalAmount=75000;
