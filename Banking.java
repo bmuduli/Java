@@ -17,6 +17,7 @@ public class Banking{
     public static void main(String[] args){
         Scanner sc= new Scanner(System.in);
             int TotalAmount=75000;
+            System.out.print("Enter withdraw Amount :");
             int withdrawAmount=sc.nextInt();
         try{
             
